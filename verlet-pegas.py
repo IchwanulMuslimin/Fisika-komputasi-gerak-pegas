@@ -1,3 +1,5 @@
+#Menggunakan metode verlet versi posisi
+
 #import module
 %matplotlib inline
 import matplotlib.pyplot as plt
